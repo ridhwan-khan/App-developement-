@@ -1,16 +1,5 @@
 # first_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is my first app building on 1st year of my university life learning how flutter works and how to use dart code.
+Understanding the code snippets and this is a pretty basic screen rending app it takes user input and outputs the result of the user based answer. 
+it has a reset button to reset the application and start the app which helps to avoid the error supposed to occur after the index is out of range. 
